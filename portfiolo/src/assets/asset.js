@@ -5,7 +5,7 @@ import Real_estate from "./real estate.png"
 import Authsystem from "./Authsystem.png"
 import Chap from "./Chap.png"
 import ecommerce from "./ecommerce.png"
-import About_img from "./Portfiol.jpg.jpg"
+import About_img from "./portfiol.jpg.jpg"
 
 export const asset = {
     cross_icon,
